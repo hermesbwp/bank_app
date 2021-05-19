@@ -1,0 +1,22 @@
+.box_content{
+    font-size: 23px;
+    margin-bottom: none;
+}
+.box_text{
+    margin:0;
+}
+.box_border{
+    margin-bottom:10px;
+    border-top: 7px solid orange ;
+    width: 17%;
+    margin-bottom: 8vh;
+}
+.box_img{
+    margin-right:0;
+}
+.img_{
+    width:400px;
+}
+.box-btn{
+    margin-top:10px;
+}

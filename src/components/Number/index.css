@@ -1,0 +1,24 @@
+.content{
+    color: white;
+    margin-bottom:2vh;
+    border-radius:1vh;
+    height:50px;
+    background-color: rgb(240,240,240);
+}
+#pass{
+    background-color: black;
+}
+#moment{
+    background-color: #1FB6FF;
+}
+.number_{
+    position:relative;
+    font-size: 67px;
+    bottom:4vh;
+}
+.text_{
+    display:flex;
+    font-size: 20px;
+    float: right;
+    padding:2px;
+}

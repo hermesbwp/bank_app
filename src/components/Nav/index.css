@@ -1,0 +1,17 @@
+.btn_group{
+    display: flex;
+    padding:5vh;
+    height: 100%;
+    width:100%;
+    position:sticky;
+}
+.btn_element{
+    border-radius: 0 !important;
+    font-size: large;
+}
+.box-icon{
+    display:flex;
+    float:left;
+    margin-top: 5px;
+    padding-right:1vh;
+}

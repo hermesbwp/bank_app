@@ -1,0 +1,18 @@
+.input_box{
+    margin-top:2vh;
+    border:none;
+    border-radius: 0;
+    border-bottom: 1px solid lightgray;
+}
+.box_border{
+    border-top: 2px solid orange ;
+    width:5%;
+    margin-bottom: 5vh;
+}
+.box_subTitle{
+    color:rgba(180,180,180);
+    font-size: 15px;
+}
+.box_text{
+    margin-top:5vh;
+}

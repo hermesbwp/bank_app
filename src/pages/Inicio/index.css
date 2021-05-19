@@ -1,0 +1,23 @@
+.box_form{
+    color: rgba(100,100,100);
+}
+.help{
+    display: flex;
+    float:right;
+    color:rgba(180,180,180);
+    text-decoration: underline;
+}
+.box_border{
+    border-top: 2px solid orange ;
+    width:8%;
+    margin-bottom: 5vh;
+}
+.question_mark{
+    color:orange;
+}
+.box_btn{
+    margin-top: 4vh;
+    padding-bottom:3vh;
+    display: flex;
+    float:right;
+}
