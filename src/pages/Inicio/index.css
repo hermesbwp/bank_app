@@ -21,3 +21,9 @@
     display: flex;
     float:right;
 }
+#perg{
+    display: none;
+}
+#show{
+    display: block;
+}

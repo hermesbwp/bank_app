@@ -5,6 +5,7 @@ import banco_1 from "../../img/bank_thumb_1.png";
 import banco_2 from "../../img/bank_thumb_104.png";
 import banco_3 from "../../img/bank_thumb_33.png";
 import banco_4 from "../../img/bank_thumb_341.png";
+import "./BankCard.css";
 
 // import { Container } from './styles';
 
@@ -20,7 +21,7 @@ function BankCard() {
         <Col>
           <Card className="bank_card" as="button">
             <Row>
-              <Col>
+              <Col className="box_info">
                 <div className="info">
                   <p>
                     <strong>Nome:</strong> FastSoluções
@@ -44,12 +45,11 @@ function BankCard() {
               </Col>
             </Row>
           </Card>
-          <div className="bank_card"></div>
         </Col>
         <Col>
           <Card className="bank_card" as="button">
             <Row>
-              <Col>
+              <Col className="box_info">
                 <div className="info">
                   <p>
                     <strong>Nome:</strong> FastSoluções
@@ -79,7 +79,7 @@ function BankCard() {
         <Col>
           <Card className="bank_card" as="button">
             <Row>
-              <Col>
+              <Col className="box_info">
                 <div className="info">
                   <p>
                     <strong>Nome:</strong> FastSoluções
@@ -103,12 +103,11 @@ function BankCard() {
               </Col>
             </Row>
           </Card>
-          <div className="bank_card"></div>
         </Col>
         <Col>
           <Card className="bank_card" as="button">
             <Row>
-              <Col>
+              <Col className="box_info">
                 <div className="info">
                   <p>
                     <strong>Nome:</strong> FastSoluções
@@ -134,7 +133,7 @@ function BankCard() {
           </Card>
         </Col>
       </Row>
-      <div>
+      <div className="box_new">
         <Button variant="primary">
           <span className="icon_box">
             <FiPlus />

@@ -1,0 +1,19 @@
+.box_new{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.bank_card{
+    font-size: small;
+    margin-bottom:2vh;
+    width:400px;
+}
+.info{
+    width:250px;
+}
+.box_info{
+    border-right: 1px solid lightgray;
+}
+.banco_logo{
+    padding: 1vh;
+    width:100px;
+}

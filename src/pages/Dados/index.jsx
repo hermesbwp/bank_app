@@ -1,6 +1,6 @@
 import React from "react";
 import Number from "../../components/Number";
-//import BankCard from "../../components/Bank/BankCard";
+import BankCard from "../../components/Bank/BankCard";
 import BankForm from "../../components/Bank/BankForm";
 
 //<BankCard />
@@ -11,6 +11,10 @@ function Dados() {
     <div>
       <Number page={2} />
       <BankForm />
+      {/* 
+      <BankCard />
+      
+      */}
     </div>
   );
 }
